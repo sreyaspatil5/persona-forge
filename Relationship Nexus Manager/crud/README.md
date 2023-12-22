@@ -1,10 +1,10 @@
 # Relationship Nexus Manager
 
 ## Overview
-The Relationship Nexus Manager is a robust backend application designed to facilitate project
-management, task assignment, and collaboration among team members. It offers user-friendly 
-interfaces for admins to oversee projects and users to efficiently manage tasks within the 
-system.
+The Relationship Nexus Manager is an application that focuses on managing 
+users, admins, and their associations. It facilitates the creation, update, 
+and deletion of user and admin accounts while establishing relationships 
+between them for streamlined management.
 
 ## Technologies Used
 - Java Backend language
@@ -23,9 +23,9 @@ system.
 3. Run the application `mvn spring-bootrun`
 
 ## Usage
-The Smart Project Management System simplifies project and task management. Users can log in,
-view assigned tasks, update statuses, and communicate within the platform. Admins can manage 
-users, projects, and assign tasks.
+The Relationship Nexus Manager simplifies the management of users and admins 
+while establishing and managing relationships between them. Users can be 
+associated with specific admins for better organization and administration.
 
 ## API Endpoints
 - GET apiusers Retrieve all users.
