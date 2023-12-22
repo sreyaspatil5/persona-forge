@@ -2,7 +2,7 @@
 Curated repository showcasing my varied projects, each highlighting unique functionalities and technologies in software development. Explore diverse applications tailored for different purposes.
 
 ## Contents
-- Smart Project Management System
+- Relationship Nexus Manager
 
 ## Usage
 Navigate through individual project folders to explore code, documentation, and details for each project.
