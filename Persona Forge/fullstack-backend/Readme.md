@@ -1,4 +1,4 @@
-# User Management System
+# Persona Forge
 
 ## Overview
 This project Persona Forge is implemented in Java using Spring Boot. It allows for the creation,
