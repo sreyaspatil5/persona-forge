@@ -2,6 +2,7 @@
 Curated repository showcasing my varied projects, each highlighting unique functionalities and technologies in software development. Explore diverse applications tailored for different purposes.
 
 ## Contents
+- Persona Forge
 - Relationship Nexus Manager
 
 ## Usage
